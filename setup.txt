@@ -1,0 +1,13 @@
+Things to consider when setting up the website:
+
+1. What development framework to use? NodeJS, Angular, React?
+2. Where to host the website? Google Cloud, AWS, Oracle, DigitalOcean?
+3. How to host the website? VM, App enginge, Cloud functions?
+  https://www.youtube.com/watch?v=uEVmD6n8Il0
+
+
+Things to consider when building the website:
+
+1. Useful backend API
+2. Responsive frontent
+3. More?
